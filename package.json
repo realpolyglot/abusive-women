@@ -5,5 +5,12 @@
   "main": "index.js",
   "repository": "git@github.com:realpolyglot/abusive-women.git",
   "author": "WM3",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "tap": "^14.11.0"
+  },
+
+  "scripts": {
+    "test": "tap test.js"
+  }
 }
