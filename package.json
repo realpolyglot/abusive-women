@@ -1,0 +1,9 @@
+{
+  "name": "abusive-women",
+  "version": "0.0.0",
+  "description": "You know exactly why men need this...if we report them, they play the victim, and it works way too often, especially if you're a black guy like me. This shit ends now.",
+  "main": "index.js",
+  "repository": "git@github.com:realpolyglot/abusive-women.git",
+  "author": "WM3",
+  "license": "MIT"
+}
