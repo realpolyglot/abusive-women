@@ -19,16 +19,9 @@ or
 <script src="https://unpkg.com/abusive-women/abusive-women.min.js"></script>
 ```
 
-> You may also install `abusive-women` via [Bower] or [jspm].
-
 ###### npm stats
 
 [![npm](https://img.shields.io/npm/v/abusive-women.svg)](https://www.npmjs.org/package/abusive-women) [![NPM downloads](http://img.shields.io/npm/dm/abusive-women.svg)](https://www.npmjs.org/package/abusive-women) [![David](https://img.shields.io/david/wilmoore/abusive-women.js.svg)](https://david-dm.org/wilmoore/abusive-women.js)
-
-###### browser support
-> The browsers listed in [.zuul.yml](.zuul.yml) are continuously tested; however, `abusive-women` is also known to work on older unlisted legacy browsers.
-
-[![Build Status](https://saucelabs.com/buildstatus/wilmoore-abusive-women)](https://saucelabs.com/beta/builds/291d077241954304b35810157995fd82)
 
 ## Usage example(s)
 
